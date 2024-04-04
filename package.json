@@ -21,5 +21,8 @@
     "build": "webpack"
   },
   "author": "Alexander Kungurov",
-  "license": "ISC"
+  "license": "MIT",
+  "dependencies": {
+    "dayjs": "1.11.10"
+  }
 }
